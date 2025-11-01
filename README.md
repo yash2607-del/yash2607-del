@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎯 Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yash+Raj+%F0%9F%91%8B;Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Digital+Experiences;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yash+Raj+%F0%9F%91%8B;Web+Developer;MERN+Stack+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
 </div>
 
@@ -13,12 +13,12 @@
 
 </div>
 
-I'm a **Full-Stack Developer** specializing in the **MERN stack**, passionate about crafting seamless, scalable, and user-centric web applications. I believe in writing clean code, solving complex problems, and turning innovative ideas into reality.
+I'm a **Web Developer** specializing in the **MERN stack**, passionate about crafting seamless, scalable, and user-centric web applications. I believe in writing clean code, solving complex problems, and turning innovative ideas into reality.
 
 🔹 **What I Do:** Build robust web applications with modern technologies  
-🔹 **What Drives Me:** Creating impactful solutions that enhance user experiences  
-🔹 **Current Focus:** Mastering system design, cloud architecture, and performance optimization  
-🔹 **Open To:** Collaborations, freelance projects, and learning opportunities
+🔹 **What Drives Me:** Creating impactful solutions to real-life problems that enhance user experiences.
+🔹 **Current Focus:** Mastering frontend,backend technologies and related frameworks.
+🔹 **Open To:** Collaborations, freelance projects, and learning opportunities.
 
 ---
 
