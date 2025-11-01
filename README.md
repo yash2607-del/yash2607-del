@@ -15,9 +15,12 @@
 
 I'm a **Web Developer** specializing in the **MERN stack**, passionate about crafting seamless, scalable, and user-centric web applications. I believe in writing clean code, solving complex problems, and turning innovative ideas into reality.
 
-🔹 **What I Do:** Craft scalable web applications using cutting-edge technologies
-🔹 **What Drives Me:** Solving real-world problems through innovative and user-centric solutions
-🔹 **Current Focus:** Deepening expertise in modern frontend and backend frameworks and technologies.
+🔹 **What I Do:** Craft scalable web applications using cutting-edge technologies  
+<br/>
+🔹 **What Drives Me:** Solving real-world problems through innovative and user-centric solutions  
+<br/>
+🔹 **Current Focus:** Deepening expertise in modern frontend and backend frameworks  
+<br/>
 🔹 **Open To:** Exciting collaborations, freelance opportunities, and continuous learning
 
 ---
