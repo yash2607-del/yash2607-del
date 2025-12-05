@@ -1,10 +1,9 @@
-<!-- Hero Section -->
 <div align="center">
 
-<h1 style="font-weight:700; font-size:38px;">Yash Raj</h1>
-<h3 style="font-weight:400;">MERN Stack Developer | Problem Solver | Love to design websites</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2400&pause=700&color=4CAF50&center=true&vCenter=true&width=700&lines=Hey+I+am+Yash+Raj;MERN+Stack+Developer;Problem+Solver+%7C+Love+to+Design+Websites" />
 
 </div>
+
 
 ---
 
