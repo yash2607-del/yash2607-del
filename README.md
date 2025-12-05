@@ -50,7 +50,6 @@ I develop scalable full-stack applications with a focus on performance, maintain
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api?username=yash2607-del&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 <img width="48%" src="https://streak-stats.demolab.com?user=yash2607-del&theme=github-dark&hide_border=true" />
 
@@ -58,7 +57,7 @@ I develop scalable full-stack applications with a focus on performance, maintain
 
 ---
 
-## Portfolio & Presence
+## Connect with me!!
 
 <div align="center">
 
