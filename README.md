@@ -1,79 +1,86 @@
+<!-- Hero Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=800&color=4CAF50&center=true&vCenter=true&width=650&lines=Hello+I'm+Yash+Raj;MERN+Stack+Developer;Building+Reliable+Digital+Systems" />
+<h1 style="font-weight:700; font-size:38px;">Yash Raj</h1>
+<h3 style="font-weight:400;">MERN Stack Developer | Problem Solver | Love to design websites</h3>
 
 </div>
 
 ---
 
-## About Me
-I am a MERN stack web developer focused on building scalable, performance-driven, and user-centric digital solutions. I believe in clean code, structured development, and continuous learning to refine modern web applications.
+## Overview
+I develop scalable full-stack applications with a focus on performance, maintainable code, and structured backend systems. My work emphasizes clean UI patterns, modular engineering, and efficient database modeling for modern web environments.
 
 ---
 
-## Tech Stack
+## Core Technologies
 
 ### Languages & Frameworks
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql" height="45" />
 
 </div>
 
----
-
-### Frontend Tools
+### Frontend Stack
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="45" />
 
 </div>
-
----
 
 ### Programming & Tools
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,php,git,qt,arduino" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,git,qt,arduino" height="45" />
 
 </div>
 
 ---
 
-## GitHub Stats
+## Development Principles
+- Scalable backend architecture (API first approach)
+- Clean component-driven frontend structure
+- Strong code formatting, workflow & version control discipline
+- UX conscious performance optimization
+- Consistent debugging and documentation process
+
+---
+
+## GitHub Metrics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api?username=yash2607-del&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats-godkingjay.vercel.app/api?username=yash2607-del&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="48%" src="https://streak-stats.demolab.com?user=yash2607-del&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://streak-stats.demolab.com?user=yash2607-del&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## Connect
+## Portfolio & Presence
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yashh26">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
 
 <a href="https://discord.com/users/yash_2602.">
-<img src="https://skillicons.dev/icons?i=discord" width="48"/>
+<img src="https://skillicons.dev/icons?i=discord" height="42"/>
 </a>
 
 <a href="mailto:yashr1624@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
 
 <a href="https://github.com/yash2607-del">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
 </a>
 
 <a href="https://yashh26-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="42"/>
 </a>
 
 </div>
@@ -81,7 +88,7 @@ I am a MERN stack web developer focused on building scalable, performance-driven
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yash2607-del&label=Profile+Views&color=4CAF50&style=for-the-badge" />
+  
+<img src="https://komarev.com/ghpvc/?username=yash2607-del&label=Profile+Views&color=4CAF50&style=flat-square" />
 
 </div>
