@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2400&pause=700&color=4CAF50&center=true&vCenter=true&width=700&lines=Hey+I+am+Yash+Raj;MERN+Stack+Developer;Problem+Solver+%7C+Love+to+Design+Websites" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2400&pause=700&color=4CAF50&center=true&vCenter=true&width=700&lines=Hey+I+am+Yash+Raj;MERN+Stack+Developer;Problem+Solver;Love+to+Design+Websites" />
 
 </div>
 
