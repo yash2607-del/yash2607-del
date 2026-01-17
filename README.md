@@ -49,7 +49,7 @@ I develop scalable full-stack applications with a focus on performance, maintain
 ## GitHub Metrics
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnav-khandelwal&theme=tokyonight" height="150"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash2607-del&theme=tokyonight" height="150"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash2607-del&theme=tokyonight" height="150"/>
 </div>
