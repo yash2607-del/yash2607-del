@@ -16,7 +16,6 @@ I develop scalable full-stack applications with a focus on performance, maintain
   <img src="https://skillicons.dev/icons?i=cpp,js,python" height="45" />
 </div>
 
----
 
 ###  Web Technologies
 <div align="center">
