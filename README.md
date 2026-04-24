@@ -15,7 +15,7 @@ I build scalable full-stack applications with a stronger focus on intuitive user
 |  Web Development & Designing Intern |  Full Stack Web Developer Intern |
 |--------------------------------------|-----------------------------------|
 | **Mini Information Technology** *(Remote)* <br> *July 2025 – Aug 2025* | **Alrize Nex Cell (ANC)** *(Remote)* <br> *Feb 2026 – May 2026* |
-|  Designed and developed a fully responsive, production-ready website for a healthcare simulation provider <br>  Ensured cross-device compatibility and optimal user experience |  Developed and deployed 3+ responsive web applications, including company and client websites <br>  Optimized performance and scalability <br>  Delivered client-focused solutions using modern UI/UX practices |
+|  • Built a responsive, production-ready healthcare website <br> • Ensured cross-device compatibility & smooth UX | • Developed 3+ responsive web applications <br> • Improved performance & scalability <br> • Delivered client-focused UI/UX solutions |
 
 </div>
 
