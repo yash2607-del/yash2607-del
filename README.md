@@ -4,11 +4,10 @@
 
 </div>
 
-
-## Overview
+## About Me:
 I build scalable full-stack applications with a stronger focus on intuitive user interfaces, performance, and clean code. I prioritize responsive design, modular architecture, and seamless integration with backend services to create efficient and user-friendly web experiences.
 
-##  Experience
+## Work Experience:
 
 <div align="center">
   
@@ -20,7 +19,7 @@ I build scalable full-stack applications with a stronger focus on intuitive user
 </div>
 
 
-## Technical Skills
+## Technical Skills:
 
 ###  Programming Languages
 <div align="center">
@@ -28,19 +27,19 @@ I build scalable full-stack applications with a stronger focus on intuitive user
 </div>
 
 
-###  Web Technologies
+###  Web Technologies:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap" height="45" />
 </div>
 
 
-###  Databases
+###  Databases:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="45" />
 </div>
 
 
-###  Tools
+###  Tools:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
 </div>
@@ -58,8 +57,6 @@ I build scalable full-stack applications with a stronger focus on intuitive user
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash2607-del&theme=tokyonight" height="150"/>
 </div>
 
-
-## Connect with me!!
 
 ## Connect with me!!
 
