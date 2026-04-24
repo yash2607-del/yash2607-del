@@ -44,9 +44,6 @@ I build scalable full-stack applications with a stronger focus on intuitive user
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
 </div>
 
-<p align="center">
-  Cloudinary
-</p>
 
 
 ## GitHub Metrics
