@@ -58,33 +58,22 @@ I build scalable full-stack applications with a stronger focus on intuitive user
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash2607-del&theme=tokyonight" height="150"/>
 </div>
 
+
 ## Connect with me!!
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yashh26">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashh26)
 
-<a href="https://discord.com/users/yash_2602.">
-<img src="https://skillicons.dev/icons?i=discord" height="42"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yashh26/)
 
-<a href="mailto:yashr1624@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashh26-portfolio.vercel.app/)
 
-<a href="https://github.com/yash2607-del">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashr1624@gmail.com)
 
-<a href="https://yashh26-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" height="42"/>
-</a>
+[![Resume](https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1Y4Ch5f4y52QQPsIg_-wJvMXC3IJZoWXi/view?usp=sharing)
 
 </div>
-
----
 
 <div align="center">
   
