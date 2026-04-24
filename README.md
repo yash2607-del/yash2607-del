@@ -61,16 +61,14 @@ I build scalable full-stack applications with a stronger focus on intuitive user
 
 ## Connect with me!!
 
+## Connect with me!!
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashh26)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yashh26/)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashh26-portfolio.vercel.app/)
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashr1624@gmail.com)
-
 [![Resume](https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1Y4Ch5f4y52QQPsIg_-wJvMXC3IJZoWXi/view?usp=sharing)
 
 </div>
