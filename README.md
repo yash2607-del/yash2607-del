@@ -9,34 +9,28 @@
 I develop scalable full-stack applications with a focus on performance, maintainable code, and structured backend systems. My work emphasizes clean UI patterns, modular engineering, and efficient database modeling for modern web environments.
 
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+###  Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,python" height="45" />
 </div>
 
 ---
 
-### 🌐 Web Technologies
+###  Web Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap" height="45" />
 </div>
 
-<p align="center">
-  REST APIs • JWT
-</p>
 
----
-
-### 🗄️ Databases
+###  Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="45" />
 </div>
 
----
 
-### 🧰 Tools
+###  Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
 </div>
