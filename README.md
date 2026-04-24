@@ -6,7 +6,7 @@
 
 
 ## Overview
-I develop scalable full-stack applications with a focus on performance, maintainable code, and structured backend systems. My work emphasizes clean UI patterns, modular engineering, and efficient database modeling for modern web environments.
+I build scalable full-stack applications with a stronger focus on intuitive user interfaces, performance, and clean code. I prioritize responsive design, modular architecture, and seamless integration with backend services to create efficient and user-friendly web experiences.
 
 
 ## Technical Skills
