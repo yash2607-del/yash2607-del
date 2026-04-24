@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2400&pause=700&color=4CAF50&center=true&vCenter=true&width=700&lines=Hey+I+am+Yash+Raj;MERN+Stack+Developer;Problem+Solver;Love+to+Design+Websites" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey+I+am+Yash+Raj;I+am+Full+Stack+Developer;I+am+Problem+Solver;I+Love+to+Design+Websites" />
 
 </div>
 
@@ -24,27 +24,17 @@ I develop scalable full-stack applications with a focus on performance, maintain
 ### Frontend Stack
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" height="45" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="45" />
 
 </div>
 
 ### Programming & Tools
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,php,git,qt,arduino" height="45" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,javascript" height="45" />
 
 </div>
 
----
-
-## Development Principles
-- Scalable backend architecture (API first approach)
-- Clean component-driven frontend structure
-- Strong code formatting, workflow & version control discipline
-- UX conscious performance optimization
-- Consistent debugging and documentation process
-
----
 
 ## GitHub Metrics
 
