@@ -14,32 +14,40 @@ I build scalable full-stack applications with a stronger focus on intuitive user
 |  Web Development & Designing Intern |  Full Stack Web Developer Intern |
 |--------------------------------------|-----------------------------------|
 | **Mini Information Technology** *(Remote)* <br> *July 2025 – Aug 2025* | **Alrize Nex Cell (ANC)** *(Remote)* <br> *Feb 2026 – May 2026* |
-|  • Built a responsive, production-ready healthcare website <br> • Ensured cross-device compatibility & smooth UX | • Developed 3+ responsive web applications <br> • Improved performance & scalability <br> • Delivered client-focused UI/UX solutions |
+|  • Built a responsive, production-ready healthcare website <br> • Ensured cross-device compatibility & smooth UX | • Developed 2+ responsive website applications <br> • Improved performance & scalability <br> • Delivered client-focused UI/UX solutions |
 
 </div>
 
 
 ## Technical Skills:
 
-###  Programming Languages
+### Programming Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,python" height="45" />
 </div>
 
 
-###  Web Technologies:
+### Web Technologies:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap" height="45" />
 </div>
 
 
-###  Databases:
+### Databases:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="45" />
 </div>
 
 
-###  Tools:
+### AI & ML:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="45" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" />
+</div>
+
+
+### Tools:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
 </div>
@@ -63,7 +71,7 @@ I build scalable full-stack applications with a stronger focus on intuitive user
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yashh26/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yashh26-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashr1624@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1Y4Ch5f4y52QQPsIg_-wJvMXC3IJZoWXi/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-1E88E5?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1old1jS9YfdULqV-wMr3YVyfRnF4V8MhE/view?usp=sharing)
 
 </div>
 
